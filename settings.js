@@ -37,8 +37,8 @@ name17 = "S̷h̷a̷n̷k̷s̷ 𓆩×͜×𓆪ꪾ*"
 name18 = "S̷h̷a̷n̷k̷s̷ 𓆩×͜×𓆪ꪾ*"
 
 //--------Random footer message-----------\\
-footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
-footer2 = `Λ⃝ͷʏΛㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
+footer1 = `S̷h̷a̷n̷k̷s̷ 𓆩×͜×𓆪ꪾ `
+footer2 = `S̷h̷a̷n̷k̷s̷ 𓆩×͜×𓆪 `
 
 //--------Left message "Nikal msg"--------\\
 nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
@@ -76,8 +76,8 @@ global.mess = {
 }
 
 //--------------- Menu images ----------------\\
-global.Menuimage = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg.jpg")
-global.thumnnaiIs = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg2.jpeg")
+global.Menuimage = 
+global.thumnnaiIs = 
 
 //--------------- Systemjc Function --------------\\
 global.autoTyping = false 
