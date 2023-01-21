@@ -1,5 +1,5 @@
 {
-  "name": "Anya-MD",
+  "name": "S̷h̷a̷n̷k̷s̷",
   "version": "2.0.5",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "Anyaindex.js",
@@ -88,10 +88,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PikaBotz/Anya-pika-MD-v2"
+    "url": "git+non"
   },
   "bugs": {
-    "url": "https://github.com/PikaBotz/Anya-pika-MD-v2/issues"
+    "url": "non"
   },
   "homepage": "https://github.com/PikaBotz/Anya-pika-MD-v2#readme"
 }
