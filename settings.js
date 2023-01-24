@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 
 global.botname = "Shanks" 
-global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
+global.botLanguage = "Arabic" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
 global.author = "Medo"  
 global.packname = "🔱...𝑴𝑬𝑫𝑶..🐉"  
 global.myweb = "No Link" // You can put any link 
