@@ -10,10 +10,10 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN npm install
+RUN npm install && npm install qrcode-terminal && npm install pm2 -g 
 
 COPY . .
 
-RUN yarn install
+EXPOSE 5000
 
-CMD ["node", "nexus.js"]
+CMD ["node", "index.js"]
