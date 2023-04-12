@@ -7,7 +7,7 @@ global.botLanguage = "Arabic" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴�
 global.author = "Medo"  
 global.packname = "🔱...𝑴𝑬𝑫𝑶..🐉"  
 global.myweb = "No Link" // You can put any link 
-global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
+global.waterMark = "×͜× Shanks✓" // Your own watermark 
 global.headerText = "🔱...𝑴𝑬𝑫𝑶..🐉" // text for header of menu         
 global.DocumentTitle = "🔱...𝑴𝑬𝑫𝑶..🐉" 
 
